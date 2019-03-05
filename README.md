@@ -1,6 +1,7 @@
 # AngularChartJs
 You will learn how to Make angular Project with Chart.js 
-
+First 
+open git then write "npm install"
 
 ## Development server
 
